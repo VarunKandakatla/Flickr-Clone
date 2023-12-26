@@ -19,7 +19,7 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  align-content: space-between;
+  align-content: center;
 
   position: sticky;
   top: 0px;
@@ -87,7 +87,7 @@ body {
   color: #ffffff99;
   text-decoration: none;
   margin: 0 8px;
-  font-size: 10px;
+  font-size: 14px;
 }
 
 .footer img {
